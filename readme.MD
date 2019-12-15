@@ -59,7 +59,7 @@ Test the app in Postman using POST method with the following details:
         "text1": <text1>
         "text2": <text2>
         "metric": <cosine/jaccard>
-        "options": ["IgnoreCase", "FilterStopWords"]
+        "text_eng_options": ["IgnoreCase", "FilterStopWords"]
     }
 }
 ```
