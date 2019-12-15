@@ -68,3 +68,13 @@ Test the app in Postman using POST method with the following details:
 ```bash
 "Similarity score using cosine metric: 0.9305779945315913"
 ```
+
+## Distance Metrics
+
+#### Cosine Similarity
+
+Cosine Similarity metric measures the similarity between two non-zero vectors using Euclidean dot formula.
+
+#### Jaccard Similarity
+
+Jaccard Similarity metric measures the similarity between two non-zero vectors using the size of intersection of two sets and the size of union of two sets.
