@@ -38,6 +38,10 @@ class TextSimilarityScoreApp(Resource):
             text1 = text1.lower()
             text2 = text2.lower()
 
+        if "FilterStopWords" in feat_eng_options:
+            text1 = text_utils.stopwords_cleaner(text1)
+            text2 = text_utils.stopwords_cleaner(text2)
+
         vector1 = text_utils.text_to_vector(text_utils.apostrophe_cleaner(text1))
         vector2 = text_utils.text_to_vector(text_utils.apostrophe_cleaner(text2))
 
