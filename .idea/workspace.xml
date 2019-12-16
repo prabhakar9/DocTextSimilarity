@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e836e65f-6157-4470-b87c-ef88ba383f68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/api/similarity_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/similarity_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/text_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/text_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/readme.MD" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,10 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/similarity_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
+            <state relative-caret-position="365">
               <caret line="42" column="55" lean-forward="true" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -43,12 +42,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="263">
-                <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+              <first_editor relative-caret-position="15">
+                <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,9 +110,9 @@
         <option value="$PROJECT_DIR$/similarityscore/text_similarity.py" />
         <option value="$PROJECT_DIR$/similarity/__init__.py" />
         <option value="$PROJECT_DIR$/similarity/text_metrics.py" />
-        <option value="$PROJECT_DIR$/readme.MD" />
         <option value="$PROJECT_DIR$/utils/text_utils.py" />
         <option value="$PROJECT_DIR$/api/similarity_app.py" />
+        <option value="$PROJECT_DIR$/readme.MD" />
       </list>
     </option>
   </component>
@@ -212,12 +211,12 @@
       <workItem from="1576428802070" duration="3191000" />
       <workItem from="1576440315586" duration="1313000" />
       <workItem from="1576441761883" duration="8276000" />
-      <workItem from="1576455782251" duration="659000" />
+      <workItem from="1576455782251" duration="873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13439000" />
+    <option name="totallyTimeSpent" value="13653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="243" y="57" width="1367" height="939" extended-state="0" />
@@ -277,16 +276,6 @@
     <entry file="file://$PROJECT_DIR$/api/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="263">
-            <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/similarity/text_metrics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -306,11 +295,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/similarity_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
+        <state relative-caret-position="365">
           <caret line="42" column="55" lean-forward="true" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

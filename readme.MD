@@ -1,5 +1,5 @@
 
-# Fetch Rewards Data EngineerCoding Challenge
+## <Project Name>
 
 Given two texts, the app computes the similarity score or percentage between them.
 
@@ -33,6 +33,7 @@ $ python run_app.py
 Test the app in Postman using POST method with the following details:
 
 * URL - http://localhost:7000/getTextSimilarityScore
+* Method - GET
 * JSON - 
 
 {
